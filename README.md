@@ -3,7 +3,7 @@ original codes related Shima et al.
 
 ## RPP.py
 ### requirement
-- RaspberryPi 3/4
+- RaspberryPi
 - TTL controled LED/laser
 - a camera conencted to RaspberryPi
 ### dependency
@@ -14,7 +14,8 @@ original codes related Shima et al.
 - picamera
 ### usage
 /path/to/the/directory/of/the/code/RPP.py [-options] [animal ID] 
-See help (-h) for details.
+
+- See help (-h) for details.
 
 
 ## quantification_pipeline.py
